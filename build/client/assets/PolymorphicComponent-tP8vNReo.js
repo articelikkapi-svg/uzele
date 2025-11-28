@@ -1,0 +1,1 @@
+import{R as r,o as m}from"./chunk-4WY6JWTD-DFTDdkfG.js";function p({as:t="div",children:e,...o}){if(typeof t=="string")return r.createElement(t,o,e);const n=t;return m.jsx(n,{...o,children:e})}export{p as C};
